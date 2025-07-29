@@ -10,9 +10,3 @@ export default function RootLayout({ children }) {
     </html>
   );
 }
-cd ~/Desktop/rallyloop-launch-pack/rallyloop-app
-git add app/layout.jsx
-git commit -m "Add root layout file to fix Next.js error"
-git push
-
-
